@@ -1,5 +1,6 @@
 #local-object-storage
-Store objects (& arrays) on top of localstorage web api with one more level of abstraction.
+
+Store objects (& arrays) on top of localstorage web api with one more level of abstraction. Use just like `localStorage` api, but now, you can give object or arrays as the second parameter.
 
 NPM: https://www.npmjs.com/package/local-object-storage
 

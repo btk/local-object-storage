@@ -1,4 +1,4 @@
-#local-object-storage
+# local-object-storage
 
 Store objects (& arrays) on top of localstorage web api with one more level of abstraction. Use just like `localStorage` api, but now, you can give object or arrays as the second parameter.
 

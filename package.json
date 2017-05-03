@@ -1,6 +1,6 @@
 {
   "name": "local-object-storage",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Store objects (& arrays) on top of localstorage web api with one more level of abstraction.",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
   ],
   "author": "btk",
   "license": "MIT",
+  "readme": "README.md",
   "bugs": {
     "url": "https://github.com/btk/local-object-storage/issues"
   },

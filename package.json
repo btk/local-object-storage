@@ -1,6 +1,6 @@
 {
   "name": "local-object-storage",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Store objects (& arrays) on top of localstorage web api with one more level of abstraction.",
   "main": "index.js",
   "scripts": {
